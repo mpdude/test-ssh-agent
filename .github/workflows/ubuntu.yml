@@ -1,4 +1,4 @@
-name: Windows SSH Agent
+name: Ubuntu SSH Agent
 
 # Controls when the action will run. 
 on:
